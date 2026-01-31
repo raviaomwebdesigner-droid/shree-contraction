@@ -1,6 +1,7 @@
 # Shree Contraction
 This repository contains a basic website project.
-#TEch used
+#TE
+Tech used
 -HTML
 -CSS
 -Bootstraps
